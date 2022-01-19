@@ -45,17 +45,17 @@ $post_data['ship_postcode'] = "1000";
 $post_data['ship_country'] = "Bangladesh";
 
 # OPTIONAL PARAMETERS
-$post_data['value_a'] = "ref001";
+$post_data['value_a '] = "ref001";
 $post_data['value_b '] = "ref002";
-$post_data['value_c'] = "ref003";
-$post_data['value_d'] = "ref004";
+$post_data['value_c '] = "ref003";
+$post_data['value_d '] = "ref004";
 
 # CART PARAMETERS
 $post_data['cart'] = json_encode(array(
-    array("product"=>"DHK TO BRS AC A1","amount"=>"200.00"),
-    array("product"=>"DHK TO BRS AC A2","amount"=>"200.00"),
-    array("product"=>"DHK TO BRS AC A3","amount"=>"200.00"),
-    array("product"=>"DHK TO BRS AC A4","amount"=>"200.00")
+     array("product"=>"DHK TO BRS AC A1","amount"=>"200.00"),
+     array("product"=>"DHK TO BRS AC A2","amount"=>"200.00"),
+     array("product"=>"DHK TO BRS AC A3","amount"=>"200.00"),
+     array("product"=>"DHK TO BRS AC A4","amount"=>"200.00")
 ));
 $post_data['product_amount'] = "100";
 $post_data['vat'] = "5";
