@@ -23,7 +23,7 @@ $post_data['emi_option'] = "1";
 $post_data['emi_max_inst_option'] = "9";
 $post_data['emi_selected_inst'] = "9";
 
-# CUSTOMER INFORMATION
+# CUSTOMER INFORMATION WITH PHONE NUMBER
 $post_data['cus_name'] = "$username";
 $post_data['cus_email'] = "test@test.com";
 $post_data['cus_add1'] = "Dhaka";
