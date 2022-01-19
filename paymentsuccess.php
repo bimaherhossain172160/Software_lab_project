@@ -35,7 +35,7 @@ $post_data['cus_country'] = "Bangladesh";
 $post_data['cus_phone'] = "01711111111";
 $post_data['cus_fax'] = "01711111111";
 
-# SHIPMENT INFORMATION
+# SHIPMENT INFORMATION ADDRESS
 $post_data['ship_name'] = "testskb75egfl";
 $post_data['ship_add1 '] = "Dhaka";
 $post_data['ship_add2'] = "Dhaka";
